@@ -1,5 +1,5 @@
 let randomNumberList = [];
-let numberLimit = 100;
+let numberLimit = 50;
 let secretNumber = generateRandomNumber();
 let tries = 1;
 
